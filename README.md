@@ -1,2 +1,3 @@
-# Initial page
+# 编程思想学java
+本书从编程思想入手，结合java与类库讲述java编程思路与语法。
 
